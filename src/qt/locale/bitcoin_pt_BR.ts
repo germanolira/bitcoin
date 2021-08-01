@@ -365,7 +365,7 @@ Somente é possível assinar com endereços do tipo 'legado'.</translation>
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Enviar moedas para um endereço Bitcoin</translation>
+        <translation>Enviar moedas para um endereço bitcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
